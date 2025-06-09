@@ -1,0 +1,49 @@
+project:
+  type: website
+
+website:
+  title: "Johns Hopkins Lyme and Tickborne Diseases Dashboard"
+  search: false
+  favicon: images/tick-fill.ico
+  
+  navbar:
+    logo: images/bloomberg-logo.png
+    href: https://publichealth.jhu.edu/
+    right:
+      - text: Home
+        href: index.qmd
+      - text: About
+        href: about.qmd
+      - text: Geography, Ticks and You
+        href: story.qmd
+      - text: Interactive Maps
+        menu: 
+          - text: Lyme Disease Tracker
+            href: lyme.qmd
+          - text: Data Explorer
+            href: explorer.qmd
+          - text: Bivariate Mapper
+            href: bivariate.qmd
+          - text: Research Atlas
+            href: atlas.qmd
+      - text: News and Resources
+        href: news.qmd
+        
+  page-footer:
+    left: |
+      [![](images/jhu-logo.png){width=50%}](https://www.jhu.edu/)
+    center: |
+      <p>Johns Hopkins Lyme and Tickborne Diseases Dashboard</p>
+      <p style="margin-bottom:1.6rem;">[ {{< bi envelope size=1.6rem >}} ](mailto:SSPHC@jhu.edu)</p>
+    right: 
+      - text: "Web Policies"
+        href: https://publichealth.jhu.edu/web-policies
+        target: _blank
+
+format:
+  html:
+    theme: cosmos
+    css: styles.css
+    toc: false
+
+editor: visual
