@@ -1,0 +1,338 @@
+---
+page-layout: custom
+pagetitle: "Home | Johns Hopkins Lyme and Tickborne Diseases Dashboard"
+title-prefix: ""
+---
+
+:::::::::::: {#hero .div}
+::::::::::: {#hero-container .container-fluid}
+:::::::::: {.grid style="gap:0;"}
+:::::: {.g-col-12 style="text-align:center;"}
+<h1>Welcome to the Johns Hopkins [Lyme and Tickborne Diseases]{style="color:var(--bud-green);font-weight:500;"} Dashboard</h1>
+
+<h2>Harnessing the Power of Geography in Tickborne Diseases Research</h2>
+
+::: {#care-btn .button}
+[Why We Care {{< iconify ri:arrow-down-double-fill height=1.6rem >}}](#why-we-care)
+:::
+
+::: {#risk-btn .button}
+[Check Your Risk {{< iconify ri:arrow-down-double-fill height=1.6rem >}}](#check-your-risk)
+:::
+
+::: {#story-btn .button}
+[Read Our Story: *Geography, Ticks and You*]()
+:::
+::::::
+
+::: {.g-col-lg-3 .g-col-sm-0 style="margin-top:0;"}
+:::
+
+::: {#hero-about .g-col-lg-6 .g-col-sm-12 style="margin-top:0;"}
+<h3>A project led by the [Johns Hopkins Spatial Science for Public Health Center](https://publichealth.jhu.edu/spatial-science-for-public-health-center){target="_blank"} in collaboration with the [Johns Hopkins Medicine Lyme Disease Research Center](https://www.hopkinslyme.org/){target="_blank"} and the [Johns Hopkins Lyme and Tickborne Diseases Research and Education Institute](https://publichealth.jhu.edu/lyme-and-tickborne-diseases-institute){target="_blank"}</h3>
+:::
+
+::: {.g-col-lg-3 .g-col-sm-0 style="margin-top:0;"}
+:::
+::::::::::
+:::::::::::
+::::::::::::
+
+::::::::::::::::::::::::: div
+:::::::: {#headlines-container .container-fluid}
+::::::: {#headlines .grid}
+::: g-col-12
+<h2>[Headlines]{style="font-weight:500;"}</h2>
+:::
+
+::: {#headlines-1 .g-col-lg-4 .g-col-md-4 .g-col-sm-12 style="padding-left:4.167vw;padding-right:4.167vw;"}
+![](images/default-placeholder-300x200.png)
+
+<p style="margin-top:1.6rem;">
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis.
+
+</p>
+
+<p style="margin-top:1.6rem;">
+
+[Read More](){target="_blank"}
+
+</p>
+:::
+
+::: {#headlines-2 .g-col-lg-4 .g-col-md-4 .g-col-sm-12 style="padding-left:4.167vw;padding-right:4.167vw;"}
+![](images/default-placeholder-300x200.png)
+
+<p style="margin-top:1.6rem;">
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis.
+
+</p>
+
+<p style="margin-top:1.6rem;">
+
+[Read More](){target="_blank"}
+
+</p>
+:::
+
+::: {#headlines-3 .g-col-lg-4 .g-col-md-4 .g-col-sm-12 style="padding-left:4.167vw;padding-right:4.167vw;"}
+![](images/default-placeholder-300x200.png)
+
+<p style="margin-top:1.6rem;">
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis.
+
+</p>
+
+<p style="margin-top:1.6rem;">
+
+[Read More](){target="_blank"}
+
+</p>
+:::
+:::::::
+::::::::
+
+:::::::::::::::::: {#care-section .div}
+::::::::::::::::: {#care-container .container-fluid}
+:::::::::::::::: grid
+::: g-col-12
+<h2><a name="why-we-care">Why We Care</a></h2>
+:::
+
+::::: {.g-col-lg-6 .g-col-sm-12 style="padding-left:4.167vw;padding-right:4.167vw;padding-bottom:4.167vw;"}
+:::: {.callout-tip icon="false"}
+## {{< bi people-fill >}} 476,000
+
+CDC estimates that approximately 476,000 Americans are diagnosed and treated for Lyme disease each year, but only a fraction of cases are reported through routine national surveillance.
+
+<p style="margin-top:1.6rem;">
+
+Source: [US Centers for Disease Control and Prevention](https://www.cdc.gov/lyme/data-research/facts-stats/index.html){target="_blank"}
+
+::: flower-1
+:::
+
+</p>
+::::
+:::::
+
+::::: {.g-col-lg-6 .g-col-sm-12 style="padding-left:4.167vw;padding-right:4.167vw;;padding-bottom:4.167vw;"}
+:::: {.callout-tip icon="false"}
+## {{< bi globe-americas >}} 50+
+
+Lyme disease positivity rates have increased, and positive tests have been observed in all 50 US states. But Lyme disease is not just a US problem. Lyme and other tickborne diseases are found worldwide.
+
+<p style="margin-top:1.6rem;">
+
+Source: [Quest Diagnostics](https://doi.org/10.1093/ajcp/aqz030){target="_blank"}, [Pathogens](https://doi.org/10.3390/pathogens12101258){target="_blank"}
+
+::: flower-2
+:::
+
+</p>
+::::
+:::::
+
+::::: {.g-col-lg-6 .g-col-sm-12 style="padding-left:4.167vw;padding-right:4.167vw;"}
+:::: {.callout-tip icon="false"}
+## {{< bi heart-pulse-fill >}} \$1.3 billion
+
+Patients diagnosed with Lyme disease on average have nearly \$3,000 higher annual health care costs, which adds up to a \$712 million – \$1.3 billion burden on the US health care system each year.
+
+<p style="margin-top:1.6rem;">
+
+Source: [John Hopkins Bloomberg School of Public Health](https://doi.org/10.1371/journal.pone.0116767){target="_blank"}
+
+::: flower-3
+:::
+
+</p>
+::::
+:::::
+
+::::: {.g-col-lg-6 .g-col-sm-12 style="padding-left:4.167vw;padding-right:4.167vw;"}
+:::: {.callout-tip icon="false"}
+## {{< bi search-heart>}} \$1,070
+
+Research for improved prevention, diagnosis and treatment of Lyme disease lags other diseases. US federal funding per new reported case of (\$1,070) is a fraction of that for HIV/AIDS (\$97,648) and hepatitis C (\$47,522).
+
+<p style="margin-top:1.6rem;">
+
+Source: [Tickborne Disease Working Group](https://www.hhs.gov/sites/default/files/tbdwg-report-to-congress-2018.pdf){target="_blank"}
+
+::: flower-4
+:::
+
+</p>
+::::
+:::::
+::::::::::::::::
+:::::::::::::::::
+::::::::::::::::::
+:::::::::::::::::::::::::
+
+:::::: {#risk-section .div}
+::::: grid
+::: {#risk-text .g-col-lg-6 .g-col-sm-12 style="padding-left:8.333vw;padding-right:8.333vw"}
+<h2><a name="check-your-risk">[Check Your Risk]{style="font-weight:500;"}</a></h2>
+
+<ul style="padding-left:4.167vw;">
+
+<li>Do you live, work or travel in the US or Canada? Use the map to check if you are within the geographic range of Lyme and other tickborne diseases.</li>
+
+<li>Use the <img id="search-icon"/> icon to search for a location.</li>
+
+<li>Use the <img id="layers-icon"/> icon to toggle on / off different tickborne diseases.</li>
+
+<li>Risk areas are identified from recent county (US) and postal code (Canada) data collected by [CDC](https://www.cdc.gov/ticks/data-research/facts-stats/geographic-distribution-of-tickborne-disease-cases.html){target="_blank"} and [Public Health Agency of Canada](https://www.canada.ca/en/public-health/services/diseases/lyme-disease/surveillance-lyme-disease.html#a4){target="_blank"}.</li>
+
+</ul>
+:::
+
+::: {.g-col-lg-6 .g-col-sm-12}
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(leaflet)
+library(leaflet.extras)
+library(sf)
+lyme_canada <- st_read("data/canada_lyme.shp", quiet = TRUE)
+lyme_usa <- st_read("data/usa_lyme.shp", quiet = TRUE)
+anaplasmosis <- st_read("data/usa_anaplasmosis.shp", quiet = TRUE)
+babesiosis <- st_read("data/usa_babesiosis.shp", quiet = TRUE)
+e_chaffeensis <- st_read("data/usa_ehrlichia_chaffeensis_ehrlichiosis.shp", quiet = TRUE)
+e_ewingii <- st_read("data/usa_ehrlichia_ewingii_ehrlichiosis.shp", quiet = TRUE)
+sfr <- st_read("data/usa_spotted_fever_rickettsiosis.shp", quiet = TRUE)
+tularemia <- st_read("data/usa_tularemia.shp", quiet = TRUE)
+undetermined <- st_read("data/usa_undetermined_ehrlichiosis_anaplasmosis.shp", quiet = TRUE)
+leaflet(width = "100%", height = "500px") %>%
+  addMapPane(name = "maplabels", zIndex = 420) %>%
+  addProviderTiles(provider = "CartoDB.PositronNoLabels") %>%
+  addProviderTiles(provider = "CartoDB.PositronOnlyLabels",
+                   options = leafletOptions(pane = "maplabels")) %>%
+  fitBounds(-124.72584, 24.49813, -66.94989, 53.59398) %>%
+  addResetMapButton() %>%
+  addSearchOSM(options = searchOptions(collapsed = TRUE,
+                                       position = "topright",
+                                       hideMarkerOnCollapse = TRUE)) %>%
+  addPolygons(data = lyme_usa,
+              stroke = FALSE,
+              fillColor = "#59a14f",
+              fillOpacity = .5,
+              group = "<img id='lyme-icon'> Lyme Disease") %>%
+  addPolygons(data = lyme_canada,
+              stroke = FALSE,
+              fillColor = "#59a14f",
+              fillOpacity = .5,
+              group = "<img id='lyme-icon'> Lyme Disease") %>%
+  addPolygons(data = anaplasmosis,
+              stroke = FALSE,
+              fillColor = "#4e79a7",
+              fillOpacity = .5,
+              group = "<img id='anaplasmosis-icon'> Anaplasmosis") %>%
+  addPolygons(data = babesiosis,
+              stroke = FALSE,
+              fillColor = "#f28e2b",
+              fillOpacity = .5,
+              group = "<img id='babesiosis-icon'> Babesiosis") %>%
+  addPolygons(data = e_chaffeensis,
+              stroke = FALSE,
+              fillColor = "#e15759",
+              fillOpacity = .5,
+              group = "<img id='e-chaffeensis-icon'> Ehrlichiosis (E. chaffeensis)") %>%
+  addPolygons(data = e_ewingii,
+              stroke = FALSE,
+              fillColor = "#76b7b2",
+              fillOpacity = .5,
+              group = "<img id='e-ewingii-icon'> Ehrlichiosis (E. ewingii)") %>%
+  addPolygons(data = sfr,
+              stroke = FALSE,
+              fillColor = "#edc948",
+              fillOpacity = .5,
+              group = "<img id='sfr-icon'> Spotted Fever Rickettsiosis") %>%
+  addPolygons(data = tularemia,
+              stroke = FALSE,
+              fillColor = "#b07aa1",
+              fillOpacity = .5,
+              group = "<img id='tularemia-icon'> Tularemia") %>%
+  addPolygons(data = undetermined,
+              stroke = FALSE,
+              fillColor = "#9c755f",
+              fillOpacity = .5,
+              group = "<img id='undetermined-icon'> Undetermined Ehr. / Ana.") %>%
+  addLayersControl(position = "bottomright",
+                   options = layersControlOptions(collapsed = TRUE),
+                   overlayGroups = c("<img id='lyme-icon'> Lyme Disease",
+                                     "<img id='anaplasmosis-icon'> Anaplasmosis",
+                                     "<img id='babesiosis-icon'> Babesiosis",
+                                     "<img id='e-chaffeensis-icon'> Ehrlichiosis (E. chaffeensis)",
+                                     "<img id='e-ewingii-icon'> Ehrlichiosis (E. ewingii)",
+                                     "<img id='sfr-icon'> Spotted Fever Rickettsiosis",
+                                     "<img id='tularemia-icon'> Tularemia",
+                                     "<img id='undetermined-icon'> Undetermined Ehr. / Ana.")
+  ) %>%
+  hideGroup(c("<img id='anaplasmosis-icon'> Anaplasmosis",
+              "<img id='babesiosis-icon'> Babesiosis",
+              "<img id='e-chaffeensis-icon'> Ehrlichiosis (E. chaffeensis)",
+              "<img id='e-ewingii-icon'> Ehrlichiosis (E. ewingii)",
+              "<img id='sfr-icon'> Spotted Fever Rickettsiosis",
+              "<img id='tularemia-icon'> Tularemia",
+              "<img id='undetermined-icon'> Undetermined Ehr. / Ana."))
+```
+:::
+:::::
+::::::
+
+:::::: {#maps-section .div}
+::::: {#maps-container .container-fluid}
+:::: grid
+::: g-col-12
+<h2>[Explore Our Interactive Maps]{style="font-weight:500;"}</h2>
+:::
+::: {#maps-1 .g-col-lg-6 .g-col-sm-12 style="padding-left:8.333vw;padding-right:8.333vw;padding-bottom:2.083vw;"}
+![](images/default-placeholder-300x200.png)
+
+<h1>Lyme Disease Tracker</h1>
+
+<p>
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis.
+
+</p>
+:::
+::: {#maps-2 .g-col-lg-6 .g-col-sm-12 style="padding-left:8.333vw;padding-right:8.333vw;;padding-bottom:2.083vw;"}
+![](images/default-placeholder-300x200.png)
+
+<h1>Data Explorer</h1>
+
+<p>
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis.
+
+</p>
+:::
+::: {#maps-3 .g-col-lg-6 .g-col-sm-12 style="padding-left:8.333vw;padding-right:8.333vw;"}
+![](images/default-placeholder-300x200.png)
+
+<h1>Bivariate Mapper</h1>
+
+<p>
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis.
+
+</p>
+:::
+::: {#maps-4 .g-col-lg-6 .g-col-sm-12 style="padding-left:8.333vw;padding-right:8.333vw;"}
+![](images/default-placeholder-300x200.png)
+<h1>Research Atlas</h1>
+
+<p>
+
+Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque faucibus ex sapien vitae pellentesque sem placerat. In id cursus mi pretium tellus duis convallis.
+
+</p>
+:::
+::::
+:::::
+::::::
